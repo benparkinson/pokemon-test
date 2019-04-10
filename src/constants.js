@@ -1,0 +1,2 @@
+export const MAX_CATCHED_POKEMONS = 6;
+export const MAX_POKEMONS_TO_REQUEST = 151;
